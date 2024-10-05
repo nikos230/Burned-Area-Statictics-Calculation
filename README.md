@@ -9,8 +9,12 @@
 
 ## Requirements
 - Install **requirements.txt** <br />
-geopandas==1.0.1, matplotlib==3.9.2, numpy==2.1.0, <br />
-pandas==2.2.2, PyYAML==6.0.1, Shapely==2.0.6
+geopandas==1.0.1,<br />
+matplotlib==3.9.2,
+numpy==2.1.0, <br />
+pandas==2.2.2, <br />
+PyYAML==6.0.1,  <br />
+Shapely==2.0.6 <br />
 
 
 ## How to Use (Auto Version)
