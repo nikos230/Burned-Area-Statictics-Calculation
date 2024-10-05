@@ -102,5 +102,4 @@ Area in % 0.2
 --------------------
 ```
 
-## Genarate Corine Land Cover Pie Chart Example
-![Alt text](https://github.com/noa-beyond/burn-scar-mapping/blob/nikos/src/Burned_Area_Stats/screenshots/corine_screen.png)
+
