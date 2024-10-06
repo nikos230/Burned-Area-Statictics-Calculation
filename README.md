@@ -1,4 +1,5 @@
 # Burned Area Statistics
+A Python script to calculate percentage of polygons inside a Bunred Area polygon, like percentage of NATURA2000 within the bunrned area or Land Use or ecosystems etc... Generates csv files with the statictics and cliped shapefiles inside the bunred area and auto reprojects all shapefiles to bunred area CRS.
 
 ## Features
 - Calculate Stats for a given Burned Area Shapefile(s) and given shapefiles within the burned area (NATURA2000, Previous Burned Areas, Land Use/ Land Cover etc...)
