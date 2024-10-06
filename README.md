@@ -1,10 +1,9 @@
 # Burned Area Statistics
 
 ## Features
-- Calculate Stats for a given Burned Area Shapefile(s)
+- Calculate Stats for a given Burned Area Shapefile(s) and given shapefiles within the burned area (NATURA2000, Previous Burned Areas, Land Use/ Land Cover etc...)
 - Export results in .csv format
 - Export clipped shapefiles (inside burned area)
-- Genarate Pie Chart for Corine Land Cover
 - Calculate stats for multiple burned areas in one run
 
 ## Requirements
